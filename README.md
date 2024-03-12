@@ -21,7 +21,7 @@ The request pipeline and Mediator pattern enhance testability by allowing easy i
 
 ## YouTube Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the implementation with explanation video in Arabic](https://www.youtube.com/watch?v=m3eYy22qNvs)
 
 ## Getting Started
 
