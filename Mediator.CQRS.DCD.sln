@@ -21,6 +21,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{69DCA9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A78890A6-0DC7-4F08-96C0-27290E247752}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{C0D8E29B-2A3E-451E-9157-F9A954C24A06}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Desktop\Central Dependency on Mediator Pipeline .png = ..\..\..\OneDrive\Desktop\Central Dependency on Mediator Pipeline .png
+		..\..\..\OneDrive\Desktop\Request Pipeline.png = ..\..\..\OneDrive\Desktop\Request Pipeline.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
